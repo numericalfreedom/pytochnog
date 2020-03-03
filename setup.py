@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Numerical Freedom Foundation",
     author_email="numericalfreedom@googlemail.com",
-    description="A python tool to the Tochnog Professional geotechnical FEM analysis programme",
+    description="A python3 tool to the Tochnog Professional geotechnical FEM analysis programme",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/numericalfreedom/pytochnog3",
