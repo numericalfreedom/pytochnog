@@ -1,5 +1,6 @@
 ## Class Pytochnog
 #
+# A python tool to the Tochnog Professional geotechnical FEM analysis programme
 #
 class Pytochnog:
 
@@ -8,11 +9,17 @@ class Pytochnog:
     #
     def __init__( self ):
 
+        ## Member variable model
+        #
+        #  This is member variable model is holding the model data
+        #
+        self.model = { 'init': [] , 'data': [] } ;
+
         ## Member variable realvalue
         #
         #  This is member variable realvalue holding a real value
         #
-        self.realvalue = 0 ;
+        self.realvalue = 0.0 ;
 
         ## Member variable integervalue
         #

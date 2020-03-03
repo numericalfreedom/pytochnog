@@ -1,2 +1,2 @@
 # pytochnog
-Python Tochnog FEM programme driver
+A python tool to the Tochnog Professional geotechnical FEM analysis programme
