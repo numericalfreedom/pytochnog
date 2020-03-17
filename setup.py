@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pytochnog3",
-    version="0.0.1",
+    version="0.0.2",
     author="Numerical Freedom Foundation",
     author_email="numericalfreedom@googlemail.com",
     description="A python3 tool to the Tochnog Professional geotechnical FEM analysis programme",
