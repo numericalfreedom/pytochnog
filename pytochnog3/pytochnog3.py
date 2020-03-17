@@ -92,7 +92,7 @@ class Pytochnog:
     #
     # @section SCT_function_echo Function echo
     #
-    # The function echo implements the command echo
+    # The function Pytochnog::echo (self,status) in the class Pytochnog implements the command echo
     #
     #
 
